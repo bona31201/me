@@ -1,4 +1,6 @@
 header a.button{
     width: 150px;
     padding-left: 62px;
+    top: 50%;
+    transform: translate(0, -50%);
 }
